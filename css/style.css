@@ -1,9 +1,9 @@
 @import url(../css/login.css);
 @font-face {
   font-family: sahel;
-  src: url(../font/Sahel-FD.eot) format("eot"),
-    url(../font/Sahel-FD.woff) format("woff"),
-    url(../font/Sahel-FD.woff2) format("woff2");
+  src: url(./font/Sahel-FD.eot) format("eot"),
+    url(./font/Sahel-FD.woff) format("woff"),
+    url(./font/Sahel-FD.woff2) format("woff2");
 }
 *,
 body {
